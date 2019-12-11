@@ -105,3 +105,4 @@ venv.bak/
 
 certs/config.cnf
 elkserver/cron.d/redelk
+elkserver/nginx/htpasswd.users
