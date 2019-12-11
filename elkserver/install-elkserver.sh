@@ -9,7 +9,7 @@
 
 LOGFILE="redelk-install.log"
 INSTALLER="RedELK elkserver installer"
-TIMEZONE="Europe/Amsterdam"
+TIMEZONE="America/Chicago"
 CWD=`pwd`
 ELKVERSION="6.8.2"
 
