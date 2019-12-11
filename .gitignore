@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 certs/config.cnf
+elkserver/cron.d/redelk
