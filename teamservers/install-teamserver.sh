@@ -8,7 +8,7 @@
 
 LOGFILE="redelk-install.log"
 INSTALLER="RedELK teamserver installer"
-TIMEZONE="Europe/Amsterdam"
+TIMEZONE="America/Chicago"
 ELKVERSION="6.8.2"
 
 #set locale for current session and default locale
