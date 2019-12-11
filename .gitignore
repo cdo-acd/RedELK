@@ -103,6 +103,15 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#Build process
 certs/config.cnf
 elkserver/cron.d/redelk
 elkserver/nginx/htpasswd.users
+certs/elkserver.*
+certs/redelkCA.*
+*.zip
+*.tgz
+elkserver/*
+redirs/*
+sshkey/*
+teamservers/*
